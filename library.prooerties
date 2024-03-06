@@ -1,0 +1,9 @@
+name=iEEI2C
+version=1.0
+author=Jiranuwat.k
+maintainer=None
+sentence=iEE-M328 Board TWI/I2C.
+paragraph=This library use Atmega328 TWI.
+category=Communication
+url=https://github.com/Jiranuwat-k/iEEI2C.git
+architectures=avr
